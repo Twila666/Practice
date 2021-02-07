@@ -1,5 +1,5 @@
 /*
-* 题目名称：路经打印
+* 题目名称：坠落的蚂蚁
 * 题目来源：北京大学复试上机题
 * 题目链接：http://t.cn/E9dhoRA
 * 代码作者：杨泽邦(炉灰)
@@ -14,7 +14,7 @@ using namespace std;
 
 const int MAXN = 100 + 10;
 
-struct Ant {
+jkstruct Ant {
     int position;
     int direction;
 };
